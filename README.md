@@ -5,6 +5,8 @@ This exercise demonstrate dynamic modulation of html documents with actions on t
 The eyes in the middle of the page will track the mouse movement across the page by tracking the coordinates of the mouse and transelating it into updated movement of the eyeball objects.
 
 
+I am looking to expand this exercise by adding eyelits that will lower when the mouse is moving below the eyes. 
+
 
 MIT License
 
